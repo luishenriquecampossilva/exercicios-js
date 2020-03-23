@@ -1,5 +1,7 @@
 console.log(7/0)
-console.log("10"/21)
+console.log("10"/2)
+console.log('3'+2)//neste caso ele ira concatenar por que o mais faz sentido na concatenação
+console.log('3'-2)
 console.log("show"*2)
 console.log(0.1+0.7)
 //console.log((10.345).toString())
